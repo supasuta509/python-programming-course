@@ -23,7 +23,7 @@ class Student:
         else:
             return "No courses enrolled yet."
 
-# Creating objects (instances)
+# Creating objects (instances) 
 student1 = Student("Alice", 20, "S001")
 student2 = Student("Bob", 19, "S002")
 

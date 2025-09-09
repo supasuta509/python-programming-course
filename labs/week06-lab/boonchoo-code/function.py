@@ -120,7 +120,7 @@ print()
 # =============================================================================
 # PART 4: DEFAULT PARAMETERS
 # =============================================================================
-print("\n=== PART 4: DEFAULT PARAMETERS ===")
+print("\n=== PART 4: DEFAULT PARAMETERS ===") 
 
 # Example 1: Function with default parameter
 def greet_with_title(name, title="Mr./Ms."):

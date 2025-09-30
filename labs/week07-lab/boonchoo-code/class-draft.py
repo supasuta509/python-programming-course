@@ -1,7 +1,7 @@
 class ClassName:
     """Class docstring"""
     
-    def __init__(self, parameters):
+    def __init__(self, parameters):#ทุกmethod ในclassต้องมีparamiter 
         # Constructor method
         self.attribute = value
     
